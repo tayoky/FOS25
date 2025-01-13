@@ -1,3 +1,4 @@
+![](https://tokei.rs/b1/github/tayoky/FOS25)   
 # FOS2
 An 64 bit OS made from scratch  
 this os use the stanix kernel an 64 bit monolic higher half kernel  
